@@ -7,7 +7,7 @@ The website featured a home page with a navbar that when clicked, will take you 
 
 ### Installation
 
-![image](https://cloud.githubusercontent.com/assets/9053854/24495974/fbf2e0cc-1547-11e7-846c-25b5fac7f6b1.png)
+![image](https://github.com/bushraislam/bushraislam.github.io/blob/master/Financial%20Trivia%20Homepage.png)
 
 
 
