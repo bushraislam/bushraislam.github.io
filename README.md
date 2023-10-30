@@ -2,18 +2,14 @@
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
-
-<img src="images/demo.gif?raw=true"/>
+As a part of the FinTech Focus program, I created a financial trivia quiz website. In this program, we went through a two-week long bootcamp led by Bank of America software engineers, where we learned full-stack skills using Python-Flask and HTML/CSS. 
+The website featured a home page with a navbar that when clicked, will take you to a new page. The website also included a page that displayed cards with financial knowledge and the final page on the website included a quiz that allowed users to submit their answer choices and get their score, the answers they got wrong, and the correct answers.
 
 ### Installation
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+![image](https://cloud.githubusercontent.com/assets/9053854/24495974/fbf2e0cc-1547-11e7-846c-25b5fac7f6b1.png)
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
